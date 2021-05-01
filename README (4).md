@@ -20,7 +20,7 @@ BeYouerSelfTransgender
 
 
 ## 設計書
-<...>
+https://app.diagrams.net/#G1qAO6i03YpATqrh7tJnNwJQmrwmF4Mj2g
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
