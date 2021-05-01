@@ -20,7 +20,8 @@ BeYouerSelfTransgender
 
 
 ## 設計書
-https://app.diagrams.net/#G1qAO6i03YpATqrh7tJnNwJQmrwmF4Mj2g
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/79131304/116787021-be781580-aadc-11eb-8423-1eb97c49aae3.jpg)
+
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
